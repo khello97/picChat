@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125049588443",
+    "project_id": "picchat-e25f3",
+    "storage_bucket": "picchat-e25f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125049588443:android:081f7356df4be964271afe",
+        "android_client_info": {
+          "package_name": "se.umu.cs.khalil.picchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125049588443-44jl8c59vkut2vgrcp4vlon9aqnojpqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDIbXJWD1pKKGRo4RIqEl136Itv4Fq4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125049588443-44jl8c59vkut2vgrcp4vlon9aqnojpqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
